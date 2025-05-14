@@ -5,18 +5,6 @@
 // GMP: https://gmplib.org/
 // Cryptopp: https://www.cryptopp.com
 //===========================
-// Runnig a Test:
-// clone the above libraries, and the PwDR file.
-// install the libraries and unzip "PwDR-main" file.
-// run the following command lines in order:
-
-// g++  -c Rand.cpp  -lgmpxx -lgmp -std=c++11 -lcryptopp
-// g++  Rand.o  main.cpp  -o main -lgmpxx -lgmp -std=c++11 -lcryptopp
-// ./main
-
-//
-
-//===========================
 
 #include <iostream>
 #include <math.h>
@@ -94,6 +82,3 @@ int main(){
   return 0;
 }
 
- // g++  -c Rand.cpp  -lgmpxx -lgmp -std=c++11 -lcryptopp
-// g++  Rand.o  main.cpp  -o main -lgmpxx -lgmp -std=c++11 -lcryptopp
-// ./main
