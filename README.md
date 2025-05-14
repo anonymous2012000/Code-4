@@ -5,8 +5,8 @@ Dependencies:
 
 * Cryptopp: https://www.cryptopp.com
 
-Runnig a test: 
-* Clone download the repository (i.e., Code-4-main).
+Running a test: 
+* Clone the repository (i.e., Code-4-main).
 * Install the libraries and unzip the downloaded file, Code-4-main.zip. 
 * Run the following command lines in order:
 
@@ -17,4 +17,3 @@ Runnig a test:
         ./test
 
 
-Alternatively you can run the main.exec file. 
