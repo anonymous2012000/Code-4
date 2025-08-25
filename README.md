@@ -7,7 +7,7 @@ Dependencies:
 
 Running a test: 
 * Clone the repository (i.e., Code-4-main).
-* Install the libraries and unzip the downloaded file, Code-4-main.zip. 
+* Install the libraries and unzip the downloaded file, Code-4-main.zip
 * Run the following command lines in order:
 
         g++  -c Rand.cpp  -lgmpxx -lgmp -std=c++11 -lcryptopp
