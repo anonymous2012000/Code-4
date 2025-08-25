@@ -1,6 +1,6 @@
 /*
 
-- Random class used in the Feather protocol.
+- Random class used in the protocol.
 
 */
 //**********************************************************************
